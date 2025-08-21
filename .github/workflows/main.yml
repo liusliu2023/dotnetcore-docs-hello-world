@@ -1,4 +1,4 @@
-on: [pull_request]
+on: [push]
 
 env:
   AZURE_WEBAPP_NAME: githubtest2    # Set this to your application's name
